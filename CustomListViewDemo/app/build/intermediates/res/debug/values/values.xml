@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/admin/Videos/Course/android/code/codes/session4/CustomListViewDemo/app/src/main/res/values/countries.xml -->
+    <eat-comment/>
+    <array name="country_icons">
+        <item>@drawable/bhutan</item>
+        <item>@drawable/colombia</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/jamaica</item>
+        <item>@drawable/kazakhstan</item>
+        <item>@drawable/kenya</item>
+    </array>
+    <string-array name="country_names">
+        <item>Bhutan</item>
+        <item>Colombia</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+    </string-array>
+    <!-- From: file:/C:/Users/admin/Videos/Course/android/code/codes/session4/CustomListViewDemo/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Custom ListViewDemo</string>
+    <string name="hello">Custom ListView Activity!</string>
+</resources>

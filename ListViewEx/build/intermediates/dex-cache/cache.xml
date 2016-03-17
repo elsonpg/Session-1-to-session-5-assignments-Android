@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tools\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\admin\Videos\Course\android\code\codes\session4\ListViewEx\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c077cdd0bc19317551473173601e6bbf304ee037.jar" />
+    </item>
+
+</items>

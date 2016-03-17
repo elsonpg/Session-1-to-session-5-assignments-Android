@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res"><file name="bhutan" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\bhutan.png" qualifiers="" type="drawable"/><file name="colombia" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\colombia.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="italy" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\italy.png" qualifiers="" type="drawable"/><file name="jamaica" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\jamaica.png" qualifiers="" type="drawable"/><file name="kazakhstan" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\kazakhstan.png" qualifiers="" type="drawable"/><file name="kenya" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\drawable\kenya.png" qualifiers="" type="drawable"/><file name="main" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\values\countries.xml" qualifiers=""><array name="country_icons">
+        <item>@drawable/bhutan</item>
+        <item>@drawable/colombia</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/jamaica</item>
+        <item>@drawable/kazakhstan</item>
+        <item>@drawable/kenya</item>
+    </array><string-array name="country_names">
+        <item>Bhutan</item>
+        <item>Colombia</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+    </string-array></file><file path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello">Custom ListView Activity!</string><string name="app_name">Custom ListViewDemo</string></file><file name="list_item_row" path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\main\res\layout\list_item_row.xml" qualifiers="" type="layout"/></source><source path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\build\generated\res\rs\debug"/><source path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\admin\Videos\Course\android\code\codes\session4\CustomListViewDemo\app\src\debug\res"/></dataSet><mergedItems/></merger>
